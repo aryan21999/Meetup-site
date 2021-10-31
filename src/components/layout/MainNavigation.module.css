@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #77002e;
+    background-color: #305688;
     padding: 0 10%;
   }
   
@@ -39,7 +39,7 @@
   }
   
   .badge {
-    background-color: #cc2062;
+    background-color: #000000;
     color: white;
     border-radius: 12px;
     padding: 0 1rem;
