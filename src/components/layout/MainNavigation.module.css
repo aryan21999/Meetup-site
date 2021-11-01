@@ -5,13 +5,13 @@
     align-items: center;
     justify-content: space-between;
     background-color: #305688;
-    padding: 0 10%;
+    padding: 0 2%;
   }
   
   .logo {
     font-size: 2rem;
     color: white;
-    font-weight: bold;
+    font-weight: Arial Bold;
   }
   
   .header ul {
@@ -29,7 +29,7 @@
   .header a {
     text-decoration: none;
     font-size: 1.5rem;
-    color: #fcb8d2;
+    color: #000000;
   }
   
   .header a:hover,
